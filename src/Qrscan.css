@@ -1,13 +1,13 @@
-.container {
+.camera- container {
   display: flex;
   flex-direction: column;
   justify-content: space-around; /* horizontal */
   align-items: space-between;     /* vertical */
   width: 100%;
 }
-.container > div{
-  width: 50%;
-  border:1px solid red;
+
+.camera-container > div {
+  margin: 10px;
 }
 .result {
   margin-top: 100px;
